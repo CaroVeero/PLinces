@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Carolina",
+            "database": "${workspaceFolder:PCaro}/database/database.sqlite"
+        }
+    ]
+}
